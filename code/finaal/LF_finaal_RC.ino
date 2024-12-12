@@ -12,7 +12,7 @@
 
 const int Drukknop = 2;//interupt
 const int LED = 3; //Led
-const int IR =13; //SensorLED
+const int IR = 4; //SensorLED
 
 //interupt:
 volatile bool runState = false;
