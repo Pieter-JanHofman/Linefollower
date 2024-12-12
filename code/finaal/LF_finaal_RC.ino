@@ -10,8 +10,8 @@
 #define MotorRightBackward 9
 
 
-const int Drukknop = 12;//interupt
-const int LED = 2; //Led
+const int Drukknop = 2;//interupt
+const int LED = 3; //Led
 const int IR =13; //SensorLED
 
 //interupt:
